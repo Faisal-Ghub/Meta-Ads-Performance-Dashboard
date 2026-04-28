@@ -2,7 +2,7 @@
 
 This project presents a comprehensive Power BI dashboard analyzing advertising performance across Meta platforms (Facebook & Instagram). The goal is to unlock actionable insights around audience behavior, campaign ROI, engagement trends, and budget utilization to enable smarter, data-driven marketing decisions.
 
----
+--- 
 
 ## 📊 Dashboard Overview
 
