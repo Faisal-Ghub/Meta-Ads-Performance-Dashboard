@@ -1,4 +1,4 @@
-# Meta Ad Performance Dashboard – Task 2 (Internship)
+# Meta Ad Performance Dashboard – 
 
 This project presents a comprehensive Power BI dashboard analyzing advertising performance across Meta platforms (Facebook & Instagram). The goal is to unlock actionable insights around audience behavior, campaign ROI, engagement trends, and budget utilization to enable smarter, data-driven marketing decisions.
 
@@ -193,9 +193,5 @@ Note: The insights below reflect Facebook campaign performance. Instagram insigh
 
 ---
 
-## 📘 Notes
 
-This repository serves as **Task 2 of the internship**, demonstrating end-to-end analytical capability across data modeling, dashboarding, KPI measurement, insights generation, and strategic recommendations.
-
----
 
